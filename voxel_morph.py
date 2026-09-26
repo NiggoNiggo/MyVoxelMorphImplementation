@@ -1,8 +1,3 @@
-# %% [markdown]
-# # Praktische Übung 5
-# Das Ziel dieser Programmieraufgabe ist die Entwicklung eines lernbasierten Algorithmus zur Registrierung von 2D-Gehirn-MRT-Schichtbildern. Das Notebook stellt Ihnen einen fertig vorverarbeiteten und in Trainings- und Testdaten unterteilten Datensatz zur Verfügung. Für jedes Bild sind 25 anatomische Regionen segmentiert worden.
-
-# %%
 import matplotlib.pyplot as plt
 import nibabel as nib
 import numpy as np
